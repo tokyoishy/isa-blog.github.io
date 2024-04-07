@@ -17,5 +17,5 @@ A focus on security
 ======
 Currently a fourth-year student, I am now finding my area of passion within the industry. I enjoy researching authentication-based solutions to problems posed through weak and reused passwords, legacy 2FA, and closed-source password managers. Newer forms of authentication including security keys and (my favourite), passkeys are quite interesting to me as they provide an end-user the ability to log into their accounts without worrying about an insecure password or the hassle of using MFA, which turns most people off of enabling it.
 
-Additionally, I would like to focus my research on Windows internals and potential avenues for an attacker to exploit Windows features, especially due to the Operating Sytem's nature regarding backwards-compatibility and support for legacy solutions. Hopefully this is interesting enough for you to read ;)
+Additionally, I would like to focus my research on Windows internals and potential avenues for an attacker to exploit Windows features, especially due to the OS's nature regarding backwards-compatibility and support for legacy solutions. Hopefully this is interesting enough for you to read ;)
 
